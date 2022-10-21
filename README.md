@@ -2,6 +2,10 @@
 파이썬으로 만든 블랙잭 카지노
 ![image](https://user-images.githubusercontent.com/88234731/196957791-d9b83afb-abe1-4287-908e-918586d8c510.png)
 ## 실행하기
+먼저 프로그램을 실행하면 카지노에 입장할건지 선택합니다.<br>
+![image](https://user-images.githubusercontent.com/88234731/197225376-5bfacfad-89fe-42f5-b4b9-b9aa4c051ff4.png)
+
+
 ```python
 import random
 
