@@ -11,7 +11,7 @@ import random
 
 print("★ ☆ ★ ☆ ★ 블랙잭 카지노 ★ ☆ ★ ☆ ★")
 print("블랙잭 카지노에 오신 것을  환영합니다.")
-print("1.입장하기 2.나가기")
+print("1.입장하기 2.나가기")1
 Awake = int(input())
 money = 500
 
